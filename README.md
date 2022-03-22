@@ -17,6 +17,8 @@ windows
 `.\time-since-test.exe`
 
 ## Example of Execution Result
+build go version go1.18
+
 linux & mac
 
 ```
