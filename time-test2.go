@@ -21,6 +21,6 @@ func main() {
 	}
 	fmt.Println("Result of 1000 executed time.Now() in for statement.")
 	for i, value := range timeSlices {
-		fmt.Println(i, value)
+		fmt.Println(fmt.Sprintf("%03d", i), value)
 	}
 }
